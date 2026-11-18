@@ -1,0 +1,9 @@
+{
+  "name": "orchestrator",
+  "version": "0.1.0",
+  "description": "Run a Claude Code session as the autonomous orchestrator of an agent-manager fleet, with a live pane showing its fleet, tasks, reservations, plans, decisions and ledger",
+  "author": { "name": "Jared Henry" },
+  "license": "MIT",
+  "repository": "https://github.com/metajar/claude-orchestrator",
+  "types": "./types/index.d.ts"
+}
